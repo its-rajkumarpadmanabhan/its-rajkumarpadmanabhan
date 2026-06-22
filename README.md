@@ -7,12 +7,11 @@ Passionate about building scalable web applications, securing digital systems, a
 
 ### 🚀 About Me
 
-* 🔭 Working with Python, Django, and Full Stack Development
-* 🌱 Learning Software Architecture, REST APIs, and Cloud Technologies
-* 🛡️ Experienced in Web Application Security & Penetration Testing
+* 🛡️ Experienced in Web Application Security & Python Development 
+* 🔭 Self Working with Python Full Stack Projects
+* 🌱 Learning Software Architecture & Technologies
 * 💡 Love creating secure, efficient, and user-friendly applications
 * 🤝 Open to collaboration on Web Development and Open Source Projects
-* 📍 Thiruvananthapuram, Kerala, India
 
 ### 🛠️ Tech Stack
 
@@ -56,15 +55,7 @@ Passionate about building scalable web applications, securing digital systems, a
 * 🇬🇧 English
 * 🇮🇳 Malayalam
 * 🇮🇳 Tamil
-
-### 📫 Connect With Me
-
-📧 Email: itsrajkumarpadmanabhan@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/rrajkumarpadmanabhan23/
-
-
----
+  
 
 ⭐ *Building secure software, solving real-world problems, and continuously learning new technologies.*
 
