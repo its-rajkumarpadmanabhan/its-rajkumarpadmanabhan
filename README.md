@@ -16,62 +16,33 @@ Passionate about building scalable web applications, securing digital systems, a
 
 ### 🛠️ Tech Stack
 
-🔹 **Backend**
+### 🛠️ Tech Stack
 
-* Python
-* Django
-* Flask
-* Django REST Framework
-* REST APIs
-* Server-Side Development
-* API Integration
+### 🛠️ Tech Stack
 
-🎨 **Frontend**
+| 🔹 Backend              | 🎨 Frontend       | 🗄️ Database       |
+| ----------------------- | ----------------- | ------------------ |
+| Python                  | HTML5             | MySQL              |
+| Django                  | CSS3              | SQLite3            |
+| Flask                   | JavaScript        | MongoDB            |
+| Django REST Framework   | Bootstrap         | Database Design    |
+| REST APIs               | Angular           | CRUD Operations    |
+| Server-Side Development | Responsive Design | Session Management |
+| API Integration         | UI Development    |                    |
 
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* Angular
-* Responsive Design
-* UI Development
+| 🔐 Security              | ⚙️ Tools & Platforms | 🚀 Development Practices |
+| ------------------------ | -------------------- | ------------------------ |
+| Penetration Testing      | Git                  | Agile Development        |
+| Vulnerability Assessment | GitHub               | Code Reviews             |
+| Secure Code Review       | Cursor               | Debugging                |
+| Web Application Security | Linux                | Problem Solving          |
+| Security Testing         | Antigravity          | Software Development     |
+| Risk Assessment          | VS Code              | Continuous Improvement   |
+|                          | Jupyter Notebook     |                          |
+|                          | Postman              |                          |
+|                          | XAMPP                |                          |
 
-🗄️ **Database**
 
-* MySQL
-* SQLite3
-* MongoDB
-* Database Design
-* CRUD Operations
-* Session Management
-
-🔐 **Security**
-
-* Penetration Testing
-* Vulnerability Assessment
-* Secure Code Review
-* Web Application Security
-* Security Testing
-* Risk Assessment
-
-⚙️ **Tools & Platforms**
-
-* GitHub
-* Linux
-* Postman
-* VS Code
-* XAMPP
-* Cursor
-* Antigravity
-* Jupyter
-
-🚀 **Development Practices**
-
-* Code Reviews
-* Debugging
-* Problem Solving
-* Software Development
-* Continuous Improvement
 
 ### 🏆 Certifications
 
