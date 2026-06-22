@@ -16,10 +16,6 @@ Passionate about building scalable web applications, securing digital systems, a
 
 ### 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
-### 🛠️ Tech Stack
-
 | 🔹 Backend              | 🎨 Frontend       | 🗄️ Database       |
 | ----------------------- | ----------------- | ------------------ |
 | Python                  | HTML5             | MySQL              |
