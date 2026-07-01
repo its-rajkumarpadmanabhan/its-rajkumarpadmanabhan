@@ -1,7 +1,7 @@
 # <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=3776AB&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Rajkumar+PR;" alt="Typing Animation" /> </p>
 
 <p align="center">
-💻 Python Full Stack Developer 🚀 Software Engineer
+💻 Python Full Stack Developer | 🚀 Software Engineer
 </p>
 
 <p align="center">
@@ -30,6 +30,9 @@ Passionate about building scalable web applications, securing digital systems, a
 | Secure Code Review | VS Code | Debugging |
 | Web App Security | Postman | Problem Solving |
 
+
+
+
 ### 🏆 Certifications
 
 * Certified Python Full Stack Developer
@@ -49,6 +52,3 @@ Passionate about building scalable web applications, securing digital systems, a
 
 ⭐ *Building secure software, solving real-world problems, and continuously learning new technologies.*
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Badge" />
-</p>
