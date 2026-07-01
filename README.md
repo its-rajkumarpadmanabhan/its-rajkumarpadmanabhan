@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=3776AB&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Rajkumar+PR;Python+Full+Stack+Developer;Security+Enthusiast" alt="Typing Animation" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=3776AB&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Rajkumar+PR;" alt="Typing Animation" /> </p>
 
 <p align="center">
 💻 Python Full Stack Developer 🚀 Software Engineer
