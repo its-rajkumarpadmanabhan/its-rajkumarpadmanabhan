@@ -1,43 +1,34 @@
+# <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=3776AB&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Rajkumar+PR;Python+Full+Stack+Developer;Security+Enthusiast" alt="Typing Animation" /> </p>
 
-# Hi there 👋, I'm Rajkumar PR
+<p align="center">
+💻 Python Full Stack Developer 🚀 Software Engineer
+</p>
 
-💻 Python Full Stack Developer | 🔐 Security Enthusiast | 🚀 Software Engineer
-
+<p align="center">
 Passionate about building scalable web applications, securing digital systems, and solving real-world problems through technology.
+</p>
 
 ### 🚀 About Me
 
 * 🛡️ Experienced in Web Application Security & Python Development 
-* 🔭 Self Working with Python Full Stack Projects
+* 🔭 Working on Python Full Stack Projects
 * 🌱 Learning Software Architecture & Technologies
 * 💡 Love creating secure, efficient, and user-friendly applications
 * 🤝 Open to collaboration on Web Development and Open Source Projects
 
 ### 🛠️ Tech Stack
 
-| 🔹 Backend              | 🎨 Frontend       | 🗄️ Database       |
-| ----------------------- | ----------------- | ------------------ |
-| Python                  | HTML5             | MySQL              |
-| Django                  | CSS3              | SQLite3            |
-| Flask                   | JavaScript        | MongoDB            |
-| Django REST Framework   | Bootstrap         | Database Design    |
-| REST APIs               | Angular           | CRUD Operations    |
-| Server-Side Development | Responsive Design | Session Management |
-| API Integration         | UI Development    |                    |
+<!-- Icons Section -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,bootstrap,angular,mysql,mongodb,git,github,linux,vscode,postman" />
+</p>
 
-| 🔐 Security              | ⚙️ Tools & Platforms | 🚀 Development Practices |
-| ------------------------ | -------------------- | ------------------------ |
-| Penetration Testing      | Git                  | Agile Development        |
-| Vulnerability Assessment | GitHub               | Code Reviews             |
-| Secure Code Review       | Cursor               | Debugging                |
-| Web Application Security | Linux                | Problem Solving          |
-| Security Testing         | Antigravity          | Software Development     |
-| Risk Assessment          | VS Code              | Continuous Improvement   |
-|                          | Jupyter Notebook     |                          |
-|                          | Postman              |                          |
-|                          | XAMPP                |                          |
-
-
+| 🔐 Security | ⚙️ Tools | 🚀 Practices |
+| :--- | :--- | :--- |
+| Penetration Testing | Git / GitHub | Agile Development |
+| Vulnerability Assessment | Linux | Code Reviews |
+| Secure Code Review | VS Code | Debugging |
+| Web App Security | Postman | Problem Solving |
 
 ### 🏆 Certifications
 
@@ -52,10 +43,12 @@ Passionate about building scalable web applications, securing digital systems, a
 
 ### 🌐 Languages
 
-* 🇬🇧 English
-* 🇮🇳 Malayalam
-* 🇮🇳 Tamil
-  
+* 🇬🇧 English | 🇮🇳 Malayalam | 🇮🇳 Tamil
+
+---
 
 ⭐ *Building secure software, solving real-world problems, and continuously learning new technologies.*
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Badge" />
+</p>
