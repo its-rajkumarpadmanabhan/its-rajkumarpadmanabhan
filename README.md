@@ -48,7 +48,7 @@ Passionate about building scalable web applications, securing digital systems, a
 
 * 🇬🇧 English | 🇮🇳 Malayalam | 🇮🇳 Tamil
 
----
+![](https://komarev.com/ghpvc/?username=its-rajkumarpadmanabhan&label=Profile%20views&color=0e75b6&style=flat)
 
 ⭐ *Building secure software, solving real-world problems, and continuously learning new technologies.*
 
