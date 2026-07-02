@@ -4,6 +4,8 @@
 💻 Python Full Stack Developer | 🚀 Software Engineer
 </p>
 
+![](https://komarev.com/ghpvc/?username=its-rajkumarpadmanabhan&label=Profile%20views&color=0e75b6&style=flat)
+
 <p align="center">
 Passionate about building scalable web applications, securing digital systems, and solving real-world problems through technology.
 </p>
@@ -18,10 +20,7 @@ Passionate about building scalable web applications, securing digital systems, a
 
 ### 🛠️ Tech Stack
 
-<!-- Icons Section -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,bootstrap,angular,mysql,mongodb,git,github,linux,vscode,postman" />
-</p>
+
 
 | 🔐 Security | ⚙️ Tools | 🚀 Practices |
 | :--- | :--- | :--- |
@@ -48,7 +47,11 @@ Passionate about building scalable web applications, securing digital systems, a
 
 * 🇬🇧 English | 🇮🇳 Malayalam | 🇮🇳 Tamil
 
-![](https://komarev.com/ghpvc/?username=its-rajkumarpadmanabhan&label=Profile%20views&color=0e75b6&style=flat)
+<!-- Icons Section -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,bootstrap,angular,mysql,mongodb,git,github,linux,vscode,postman" />
+</p>
+
 
 ⭐ *Building secure software, solving real-world problems, and continuously learning new technologies.*
 
