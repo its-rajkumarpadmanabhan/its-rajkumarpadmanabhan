@@ -1,7 +1,10 @@
-# <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=3776AB&center=true&vCenter=true&width=600&height=50&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Rajkumar+PR;" alt="Typing Animation" /> </p>
+# <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Rajkumar%20PR&fontAlign=50&fontAlignY=38&fontSize=48&color=0:4B0082,40:6A0DAD,100:8A2BE2&fontColor=ffffff"/>
+</p>
+<p align="center">
 
 <p align="center">
-💻 Python Full Stack Developer | 🚀 Software Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+Welcome+To+My+Git"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=its-rajkumarpadmanabhan&label=Profile%20views&color=0e75b6&style=flat)
@@ -30,6 +33,9 @@ Passionate about building scalable web applications, securing digital systems, a
 | Web App Security | Postman | Problem Solving |
 
 
+# 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=its-rajkumarpadmanabhan&theme=tokyo-night)](https://github.com/its-rajkumarpadmanabhan)
 
 
 ### 🏆 Certifications
@@ -42,6 +48,7 @@ Passionate about building scalable web applications, securing digital systems, a
 * Corporate Etiquette – TCS iON
 * Basics of IoT & Machine Learning
 * Basic Telecom Training – BSNL
+
 
 ### 🌐 Languages
 
