@@ -7,6 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=8A2BE2&center=true&vCenter=true&width=700&lines=Hi+Welcome+To+My+Git"/>
 </p>
 
+> 💻 Python Full-Stack Developer · 🚀 Penetration Tester · 
+
+
 ![](https://komarev.com/ghpvc/?username=its-rajkumarpadmanabhan&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center">
