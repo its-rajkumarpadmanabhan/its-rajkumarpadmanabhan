@@ -11,7 +11,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=its-rajkumarpadmanabhan&label=Profile%10views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=its-rajkumarpadmanabhan&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center">
 Passionate about building scalable web applications, securing digital systems, and solving real-world problems through technology.
